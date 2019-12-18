@@ -9,7 +9,7 @@
 googlescholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-school"
+  icon: "fa-graduation-cap"
 
 facebook:
   name: "Facebook"
