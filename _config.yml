@@ -72,9 +72,9 @@ social-network-links:
   twitter: paul_g_carvalho
   linkedin: paul-carvalho-888335121
   googlescholar: citations?user=472aX6UAAAAJ&hl=en&oi=sra
-# facebook: deanattali
+#  facebook: deanattali
 #  reddit: yourname
-# rss: true
+#  rss: true
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -89,12 +89,11 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "paulcarvalho.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
