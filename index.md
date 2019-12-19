@@ -9,4 +9,5 @@ meta-description: "PhD Candidate in Biological and Environmental Sciences at the
 
 ### About me
 
-I joined the [Humphries Lab](http://ahumphrieslab.com/) at the University of Rhode Island in 2016. Broadly, I'm interested in marine fisheries ecological and conservation research that can be used to inform management. For my dissertation, I'm investigating the impacts of fishing pressure, and the use of multiple fishing gears, on coral reef fish communities in Indonesia.
+In 2016, I joined the [Humphries Lab](http://ahumphrieslab.com/) at the University of Rhode Island to pursue a PhD. For my dissertation research, I am investigating the impacts of fishing pressure, and the use of multiple fishing gears, on coral reef fish populations in Indonesia. Broadly, I'm interested in marine fisheries ecology and conservation and interdisciplinary scientific research. In addition to my PhD, I was a graduate research fellow at the [National Socio-Environmental Synthesis Center](https://www.sesync.org/), where I worked with a group of graduate students to explore social discourse around environmental damage from hurricanes.  
+Prior to attending the University of Rhode Island (2 weeks prior!) I completed my master's degree at California Polytechnic State University in San Luis Obispo.
