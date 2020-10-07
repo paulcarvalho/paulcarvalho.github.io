@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Research
 ---
 
 ### Coral Reef Fisheries
