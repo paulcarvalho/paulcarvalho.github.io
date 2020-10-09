@@ -8,9 +8,9 @@ title: Research
 Fisheries models allow scientists to explore fish population dynamics in response to a variety of environmental (e.g. climate change) and anthropogenic (e.g. fishing) factors and help managers make informed decision. I use fisheries modeling techniques to explore the conservation and socio-economic tradeoffs of alternative fisheries management strategies.
 
 
-### Fisheries independent indicators
+### Fisheries-independent indicators
 
-Most coral reef fisheries lack the data required for traditional stock assessment methods.
+Most coral reef fisheries lack the data required for traditional stock assessment methods. However, fisheries-independent indicators can be a cost-effective method to assess the population status of fishes on coral reefs.
 
 ### Socio-environmental synthesis
 
