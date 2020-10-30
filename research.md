@@ -5,8 +5,9 @@ title: Research
 
 ### Fisheries modeling
 
-Fisheries models allow scientists to explore fish population dynamics in response to a variety of environmental (e.g. climate change) and anthropogenic (e.g. fishing) factors and help managers make informed decision. I use fisheries modeling techniques to explore the conservation and socio-economic tradeoffs of alternative fisheries management strategies.
+Population modeling can be a powerful tool for assessing fish populations and exploring population dynamics in response to a variety of environmental (e.g. climate change) and anthropogenic (e.g. fishing) factors that otherwise would be difficult, or impossible, to explore through observational studies. I use fisheries models to investigate the impacts of various management strategies on fish biomass, fisheries catch, and catch efficiency (or catch-per-unit-effort). 
 
+Using spatially-explicit fisheries models, I (along with an amazing team of scientists) tested the ability of periodically-harvested closures (PHCs) for meeting conservation and socioeconomic objectives. PHCs are centuries-old forms of fisheries management that are used widely throughout the Indo-Pacific. Interestingly, PHCs are often used to exploit the change in fish behavior during closed periods, which we were able to capture in our fisheries models. Exploiting this change in behavior resulted in PHCs outperforming non-spatial management and managemnet with no-take marine protected areas. Except for areas with really high levels of overfishing, where the conservation benefits of no-take marines protected areas can out weigh the catch efficiency and yield benefits of PHCs.
 
 ### Fisheries-independent indicators
 
