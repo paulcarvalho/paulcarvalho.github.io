@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paul Carvalho, PhD
+title: Paul Carvalho
 subtitle: Postdoctoral Fellow
 css: "/css/index.css"
 meta-title: "Paul Carvalho"
