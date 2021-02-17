@@ -53,7 +53,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-footer-img: "https://www.rawstory.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDgyNjQzMi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTYyMzUyNzgzN30.-dgy3DvlMTUe3iEd-lUCr5vJHTk47DOtxa_wobK47dI/image.png?width=980&quality=85)"
+footer-img: "/img/salmon.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
