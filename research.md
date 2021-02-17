@@ -7,8 +7,9 @@ title: Research
 
 Management strategy evaluation (MSE) is a simulation method that models fish population dynamics and the full management process (data collection, stock assessment, harvest control rule, and management implementation). MSE are useful for exploring the tradeoffs of alternative management strategies, considering multiple stakeholders with diverse (and sometimes competing) objectives, and quantifying uncertainty in the outcomes from these strategies. I am using the MSE approach to evaluate the tradeoffs between hatcery practices, fisheries, water management, agricultural production, and the maintenance of robust and resilient Central Valley fall Chinook populations. We are currently in the early stages of this research, but hope to have updates soon!
 
-<img src="https://www.sciencealert.com/images/2020-05/processed/Chinooksalmonmigrate_magnetoreceptors_1024.jpg" width="300" />
-
+<br><br>
+<center><img src="/img/MSE_diagram.jpg" alt="MSE"></center>
+<br>
 ### Fisheries modeling
 
 Population modeling can be a powerful tool for assessing fish populations and exploring population dynamics in response to a variety of environmental (e.g. climate change) and anthropogenic (e.g. fishing) factors that otherwise would be difficult, or impossible, to explore through observational studies. I use fisheries models to investigate the impacts of various management strategies on fish biomass, fisheries catch, and catch efficiency (or catch-per-unit-effort). I have used fisheries models to compare periodically-harvested closures (a traditional form of marine natural resource management used widely throughout Melanesia) against conventional management strategies, and multi-species, length-based fisheries models to evaluated the impacts of gear-based management on coral reef fish assemblages.
