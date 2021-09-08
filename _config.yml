@@ -21,7 +21,7 @@ description: Paul Carvalho | Postdoctoral Scholar
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Publications: "publications"
+  Publications: "publications/publications"
   CV: "CV/carvalho_cv.pdf"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
