@@ -5,7 +5,7 @@ title: Publications
 
 **Carvalho, P.G.** and Humphries, A.T. (2021). Gear restrictions create conservation and fisheries tradeoffs for management. *Fish and Fisheries*. doi:10.1111/faf.12607 [(access full text)](papers/CarvalhoEtAl2021b.pdf)
 
-{{ site.baseurl }}/papers/CarvalhoEtAl2021b.pdf
+{{https://github.com/paulcarvalho/paulcarvalho.github.io/blob/master/papers/CarvalhoEtAl2021b.pdf}}/papers/CarvalhoEtAl2021b.pdf
 
 **Carvalho, P.G.**, Setiawan, F., Fahlevy, K., Subhan, B., Madduppa, H., Zhu, G., and Humphries, A.T. (2021). Fishing and habitat differentially affect size spectra slopes of coral reef fishes. *Ecological Applications*. doi:10.1002/eap.2345 [(access full text)](papers/CarvalhoEtAl2021a.pdf)
 
