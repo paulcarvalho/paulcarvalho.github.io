@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+Borbee, E.M., Ayu, I.P., **Carvalho, P.G.**, Restiana, E., Setiawan, F., Subhan, B., Humphries, A.T., Madduppa, H., and Lane, C.E. (2022). Rubble fields shape planktonic protist communities in Indonesia at a local scale. *The Journal of Eukaryotic Microbiology*. https://doi.org/10.1111/jeu.12954 [(access full text)](BorbeeEtAl2022.pdf)
+
 Jane, S., Smith, K., Baker, D., Koch, A., Cutler, E., and **Carvalho, P.G.** (2022). News media and fisheries-independent data reveal hidden impacts of hurricanes. *Ambio*. https://doi.org/10.1007/s13280-022-01732-0 [(access full text)](JaneEtAl2022.pdf)
 
 **Carvalho, P.G.** and Humphries, A.T. (2021). Gear restrictions create conservation and fisheries tradeoffs for management. *Fish and Fisheries*. doi:10.1111/faf.12607 [(access full text)](CarvalhoEtAl2021b.pdf)
