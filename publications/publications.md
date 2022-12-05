@@ -20,3 +20,4 @@ Humphries, A.T., Gorospe, K.D., **Carvalho, P.G.**, Yulianto, I., Kartawijaya, T
 Lema, S.C., Washburn, E.H., Crowley, M.E., **Carvalho, P.G.**, and Egelston, J.N. (2019). Evidence for a role of arginine vasotocin (AVT) receptors in the gill during salinity acclimation by a euryhaline teleost fish. *American Journal of Physiology-Regulatory, Integrative and Comparative Physiology*. 316, R735-R750. [(access full text)](LemaEtAl_2018b.pdf)
 
 Lema, S.C., **Carvalho, P.G.**, Egelston, J.N., Kelly, J.T., and McCormick, S.D. (2018). Dynamics of gene expression responses for ion transport proteins and aquaporins in the gill of a euryhaline pupfish during freshwater and high salinity acclimation. *Physiological and Biochemical Zoology*. 91(6), 1148-1171. [(access full text)](LemaEtAl_2018a.pdf)
+
