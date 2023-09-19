@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+Dimarchopoulou, D., Wibisono, E., Saul, S. **Carvalho, P.G.**, Nugraha, A., Mous, P.J., and Humphries, A.T. (2023). Combining catch-based indicators suggests overexploitation and poor status of Indonesia's deep demersal fish stocks. *Fisheries Research*. https://doi.org/10.1016/j.fishres.2023.106854 [(access full text)](HumphriesEtAl2023.pdf)
+
+**Carvalho, P.G.**, Satterthwaite, W.H., O'Farrell, M.R., Speir, C., and Palkovacs, E.P. (2023). Role of maturation and mortality in portfolio effects and climate resilience. *Canadian Journal of Fisheries and Aquatic Sciences*. https://doi.org/10.1139/cjfas-2022-0171 [(access full text)](CarvalhoEtAl2023.pdf)
+
 Borbee, E.M., Ayu, I.P., **Carvalho, P.G.**, Restiana, E., Setiawan, F., Subhan, B., Humphries, A.T., Madduppa, H., and Lane, C.E. (2022). Rubble fields shape planktonic protist communities in Indonesia at a local scale. *The Journal of Eukaryotic Microbiology*. https://doi.org/10.1111/jeu.12954 [(access full text)](BorbeeEtAl2022.pdf)
 
 Jane, S., Smith, K., Baker, D., Koch, A., Cutler, E., and **Carvalho, P.G.** (2022). News media and fisheries-independent data reveal hidden impacts of hurricanes. *Ambio*. https://doi.org/10.1007/s13280-022-01732-0 [(access full text)](JaneEtAl2022.pdf)
