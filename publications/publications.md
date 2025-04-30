@@ -3,6 +3,12 @@ layout: page
 title: Publications
 ---
 
+Innes-Gold, A.A., **Carvalho, P.G.**, McManus, L.C., Correa-Garcia, S., Marcoux, S.D., Oleson, K.L.L., Stokes, K., and Madin, E.M.P. (2024). Modeling the interactive effects of sea surface temperature, fishing effort, and spatial closures on reef fish populations. *Theoretical Ecology*. https://doi.org/10.1007/s12080-024-00591-7
+
+Fahlevy, K., Prabowo, B., Manik, N.W.Q., **Carvalho, P.G.**, Humphries, A.T., Subhan, B., and Madduppa, H. (2024). Coral communities distribution in the context of site's reef formation type in Wakatobi National Park, Indonesia. *Ocean Science Journal*. https://doi.org/10.1007/s12601-024-00154-1
+
+Shen, E.W., Borbee, E.M., **Carvalho, P.G.**, Setiawan, F., Subhan, B., Madduppa, H., Humphries, A.T., and Lane, C.E. (2024). Preliminary characterization of coral reef diversity using environmental DNA in a hyper-diverse context. *Regional Studies in Marine Science*. https://doi.org/10.1016/j.rsma.2024.103432
+
 Dimarchopoulou, D., Wibisono, E., Saul, S. **Carvalho, P.G.**, Nugraha, A., Mous, P.J., and Humphries, A.T. (2023). Combining catch-based indicators suggests overexploitation and poor status of Indonesia's deep demersal fish stocks. *Fisheries Research*. https://doi.org/10.1016/j.fishres.2023.106854 [(access full text)](HumphriesEtAl2023.pdf)
 
 **Carvalho, P.G.**, Satterthwaite, W.H., O'Farrell, M.R., Speir, C., and Palkovacs, E.P. (2023). Role of maturation and mortality in portfolio effects and climate resilience. *Canadian Journal of Fisheries and Aquatic Sciences*. https://doi.org/10.1139/cjfas-2022-0171 [(access full text)](CarvalhoEtAl2023.pdf)
